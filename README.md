@@ -85,6 +85,29 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 </details>
 
+## make an installable distri
+<details>
+  <summary>Cliquer pour dérouler</summary>
+   
+```
+python setup.py sdist bdist_wheel
+```
+
+```
+pip install dist/PromptistDemo-1.0-py3-none-any.whl
+```
+
+or
+
+```
+curl -O https://github.com/tucommenceapousser/trkn-promptist/raw/main/dist/PromptistDemo-1.0-py3-none-any.whl
+```
+
+```
+pip install PromptistDemo-1.0-py3-none-any.whl
+```
+</details>
+
 ## Contribuer
 <details>
   <summary>Cliquer pour dérouler</summary>
