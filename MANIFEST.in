@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+recursive-include static *
+include main.py
+include requirements.txt
+include setup.py
