@@ -129,7 +129,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 Pour cloner et déployer ce projet directement sur Replit ou Glitch, cliquez sur l'un des boutons ci-dessous :
 
 [![Cloner sur Replit](https://replit.com/badge/github/tucommenceapousser/trkn-promptist)](https://replit.com/new/github/tucommenceapousser/trkn-promptist)
-[![Cloner sur Glitch](https://glitch.com/edit/#!/import/github/tucommenceapousser/trkn-promptist)](https://glitch.com/edit/#!/import/github/tucommenceapousser/trkn-promptist)
+[![Cloner sur Glitch](https://cdn.glitch.com/deploy/button.svg)](https://glitch.com/edit/#!/import/github/tucommenceapousser/trkn-promptist)
 
 ---
 
