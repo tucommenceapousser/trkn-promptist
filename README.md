@@ -59,7 +59,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. **Lancer l'application :**
    ```bash
-   python app.py
+   python main.py
    ```
 
 2. **Accédez à l'application :**
@@ -102,7 +102,7 @@ Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes po
 
 3. **Créez une branche pour vos modifications :**
    ```bash
-   git checkout -b ma-branche
+   git checkout -b main
    ```
 
 4. **Effectuez vos modifications et commitez-les :**
@@ -112,7 +112,7 @@ Les contributions sont les bienvenues ! Veuillez suivre les étapes suivantes po
 
 5. **Poussez votre branche et créez une Pull Request :**
    ```bash
-   git push origin ma-branche
+   git push origin main
    ```
 
 6. **Ouvrez une Pull Request sur GitHub :**
@@ -130,7 +130,7 @@ Pour cloner et déployer ce projet directement sur Replit ou Glitch, cliquez sur
 
 [![Cloner sur Replit](https://replit.com/badge/github/tucommenceapousser/trkn-promptist)](https://replit.com/new/github/tucommenceapousser/trkn-promptist)
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/https://github.com/tucommenceapousser//trkn-promptist)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/https://github.com/tucommenceapousser/trkn-promptist)
 ---
 
 Made with ❤️ by TRHACKNON
