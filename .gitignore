@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+dist/*.tar.gz
 downloads/
 eggs/
 .eggs/
@@ -24,7 +24,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+# MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -159,6 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore all Python scripts except app.py
+
 *.py
 !main.py
