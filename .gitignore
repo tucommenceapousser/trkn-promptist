@@ -161,4 +161,4 @@ cython_debug/
 
 # Ignore all Python scripts except app.py
 *.py
-!app.py
+!main.py
