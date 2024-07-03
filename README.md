@@ -130,10 +130,7 @@ Pour cloner et déployer ce projet directement sur Replit ou Glitch, cliquez sur
 
 [![Cloner sur Replit](https://replit.com/badge/github/tucommenceapousser/trkn-promptist)](https://replit.com/new/github/tucommenceapousser/trkn-promptist)
 
-[![Cloner sur Glitch](https://cdn.glitch.com/deploy/button.svg)](https://glitch.com/edit/#!/import/github/tucommenceapousser/trkn-promptist)
-
-[![Cloner sur Glitch](https://cdn.glitch.com/deploy/button.svg)](https://glitch.com/edit/#!/import/github/votre-utilisateur/promptist-demo)
-
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/https://github.com/tucommenceapousser//trkn-promptist)
 ---
 
 Made with ❤️ by TRHACKNON
