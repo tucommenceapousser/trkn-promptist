@@ -1,6 +1,7 @@
 include README.md
 include LICENSE
-recursive-include static *
+recursive-include dist *
 include main.py
 include requirements.txt
 include setup.py
+include MANIFEST.in
