@@ -1,3 +1,4 @@
-# Ignore all Python scripts except app.py
 *.py
 !main.py
+dist/*.tar.gz
+build
