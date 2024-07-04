@@ -2,11 +2,10 @@
 
 ![Logo](https://static-trkn.replit.app/trkn.svg)
 
-##
-*** huggingface space ***
-```
-https://huggingface.co/spaces/trhacknon/Promptist
-```
+
+## Huggingface Space
+
+[https://huggingface.co/spaces/trhacknon/Promptist](https://huggingface.co/spaces/trhacknon/Promptist)
 
 ## Introduction
 **Promptist Demo** est une application web qui utilise un modèle de génération de texte pour optimiser les prompts pour Stable Diffusion v1-4. Ce projet est réalisé par **TRHACKNON** et utilise des technologies comme GPT-4 et Flask.
