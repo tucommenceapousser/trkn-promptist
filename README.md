@@ -59,7 +59,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. **Lancer l'application :**
    ```bash
-   python main.py
+   python setup.py
    ```
 
 2. **Accédez à l'application :**
