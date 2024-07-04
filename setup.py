@@ -10,7 +10,6 @@ import questionary
 import time
 from alive_progress import alive_bar
 from banner.banner import fun_prompt, twinkling_text, print_mixed_colors_spider
-import sys
 from termcolor import colored
 
 init(autoreset=True)
@@ -22,7 +21,11 @@ def install_packages():
         "torch",
         "transformers==4.23.1",
         "pytorch_lightning==1.7.7",
-        "flask"
+        "flask",
+        "colorama",
+        "questionary",
+        "alive_progress",
+        "termcolor"
     ]
 
     for package in packages:
@@ -33,9 +36,8 @@ def install_packages():
             sys.exit(1)
 
 def main():
-    # print("Bienvenue dans l'installation de Promptist Demo par TRHACKNON")
     twinkling_text("Installation de Promptist Demo par TRHACKNON", twinkling_duration=4)
-    print(colored("Ce script va installer les dépendances nécessaires pour exécuter l'application.",'cyan'))
+    print(colored("Ce script va installer les dépendances nécessaires pour exécuter l'application.", 'cyan'))
 
     while True:
         user_input = input("Souhaitez-vous continuer avec l'installation ? (oui/non): ").strip().lower()
@@ -45,9 +47,13 @@ def main():
             break
         elif user_input in ['non', 'n', 'no']:
             print("Installation annulée.")
+            subprocess.check_call([sys.executable, "main.py"])
             sys.exit(0)
         else:
             print("Entrée invalide. Veuillez répondre par 'oui' ou 'non'.")
+
+    # Lancer le script main.py après l'installation des dépendances
+    subprocess.check_call([sys.executable, "main.py"])
 
 if __name__ == "__main__":
     main()
@@ -60,7 +66,11 @@ setup(
         "torch",
         "transformers==4.23.1",
         "pytorch_lightning==1.7.7",
-        "flask"
+        "flask",
+        "colorama",
+        "questionary",
+        "alive_progress",
+        "termcolor"
     ],
     entry_points={
         'console_scripts': [
