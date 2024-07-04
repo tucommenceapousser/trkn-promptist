@@ -3,3 +3,4 @@
 dist/*.tar.gz
 build/
 !banner/*.py
+!setup.py
